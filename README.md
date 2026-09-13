@@ -7,9 +7,6 @@ _La Serena, 12 de septiembre de 2026, Nicolás Hasbún A._
 Trabajo Individual 2 del curso **Análisis de Datos** del
 Laboratorio de Sistemas Embebidos de la Universidad de Buenos Aires.
 
-## Quick Usage
+## Proposal
 
-WIP
-
-
-
+<img src="./img/proposal.webp" alt="proposal"/>
